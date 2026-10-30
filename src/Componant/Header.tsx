@@ -45,7 +45,7 @@ export default function Header() {
               المنتجات
             </a>
             <a 
-              href="https://wa.me/201091832103" 
+              href="https://wa.me/201027766403" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-emerald-600 transition-colors flex items-center gap-1.5"
