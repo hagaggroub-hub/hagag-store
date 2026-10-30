@@ -14,7 +14,7 @@ export default function Header() {
     });
     message += "أرجو تأكيد الطلب وتكلفة الشحن.";
 
-    const url = `https://wa.me/201091832103?text=${encodeURIComponent(message)}`;
+    const url = `https://wa.me/01027766403?text=${encodeURIComponent(message)}`;
     window.open(url, "_blank");
   };
 
